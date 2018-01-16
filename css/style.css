@@ -1,0 +1,21 @@
+#doc {
+  position: absolute;
+  left: 15%;
+  right: 15%;
+  top: 10%;
+  background-color:#456;
+  border-style: dotted;
+  border-color: green;
+  border-width: 8px;
+  margin-bottom: 40px;
+}
+#score { min-width: 130px;
+  max-width: 180px;
+text-align: center;
+}
+p{padding-bottom:0px;}
+
+#answer{margin-top:5px;
+max-width:50%}
+
+::-webkit-input-placeholder{color:#aaa;}
